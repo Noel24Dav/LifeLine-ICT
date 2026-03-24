@@ -1,69 +1,37 @@
-# LifeLine-ICT
-
-## Project Summary
-
-LifeLine-ICT is a system for … (brief description: what problem is solved, who uses it, main components: IoT, backend, GIS, frontend, deployment)  
-
-### High-Level Architecture
-
-Brief overview of how iot, backend, gis, frontend interact. Maybe include a diagram (link to `docs/architecture.md`).
-
-### Module Overview
-
-- **iot/** – code for sensors, gateways, device firmware  
-- **backend/** – APIs, business logic, data storage  
-- **gis/** – geospatial processing, map generation, spatial analyses  
-- **frontend/** – user interfaces, dashboards, maps  
-- **deployment/** – infrastructure as code, deployment manifests, Docker, etc.  
-- **docs/** – project documentation  
-
-## Getting Started
-
-### Prerequisites
-
-List required tools (e.g. Node.js, Python, Docker, etc.)
-
-### Local Setup
-
-Steps to clone, install dependencies, run each module (iot, backend, frontend, etc.)
-
-### Running Tests / Building
-
-Commands to run tests, linting, build all modules, etc.
-
-### Deployment
-
-Instructions (or link to docs) to deploy to staging / production environments.
-
-## Contributing
-
-We welcome contributions! Please follow these guidelines:
-
-1. Fork the repository  
-2. Create a feature branch: `git checkout -b feature/your-feature`  
-3. Commit changes with clear, descriptive messages  
-4. Write tests where applicable  
-5. Ensure linting and tests pass  
-6. Submit a pull request  
-
-### Coding Standards
-
-- Language(s) used (e.g. Python, JavaScript, etc.)  
-- Style/lint rules (e.g. `eslint`, `flake8`, etc.)  
-- Commit message style (e.g. Conventional Commits)  
-
-### Issue / PR Workflow
-
-- Create or reference an issue before starting major work  
-- Keep pull requests small and focused  
-- Use descriptive titles and references to issues  
-- Request reviews, respond to feedback  
-
 ## License
-
 State your license (MIT, Apache, etc.).
+Replace it with:
+markdown## 📄 License
 
-## Contact / Maintainers
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+```
 
-List maintainers, contact paths, etc.
+---
 
+That's the only change for this issue. The rest of the template sections are placeholders meant for future issues — don't fill those in now, as each one should be its own separate issue, branch, and pull request.
+
+---
+
+**After committing this change**, you'll also need to create the actual `LICENSE` file at the root of the repository. Here's what to write in it:
+```
+MIT License
+
+Copyright (c) 2026 LifeLine-ICT
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
